@@ -1,4 +1,4 @@
-var fs = require("fs");
+const fs = require("fs");
 const TelegramBot = require("node-telegram-bot-api");
 const VerificadorDeInscripciones = require("./verificadorDeInscripciones");
 
