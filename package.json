@@ -1,0 +1,15 @@
+{
+  "name": "bot-covid-caba",
+  "version": "1.0.0",
+  "description": "Bot para saber cuando se habilita la vacunación en CABA",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick Risaro",
+  "dependencies": {
+    "dom-parser": "^0.1.6",
+    "node-telegram-bot-api": "^0.53.0"
+  }
+}

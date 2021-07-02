@@ -1,2 +1,3 @@
 env.local
 ngrok
+node_modules
