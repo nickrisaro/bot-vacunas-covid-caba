@@ -1,5 +1,5 @@
 {
-  "name": "bot-covid-caba",
+  "name": "bot-vacunas-covid-caba",
   "version": "1.0.0",
   "description": "Bot para saber cuando se habilita la vacunación en CABA",
   "main": "index.js",
