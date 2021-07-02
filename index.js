@@ -58,4 +58,4 @@ let verificador = new VerificadorDeInscripciones((nuevasVacunaciones) => {
 setInterval(function () {
   console.log(new Date());
   verificador.verSiHayNuevasInscripciones();
-}, 10 * 1000);
+}, 10 * 60 * 1000);
